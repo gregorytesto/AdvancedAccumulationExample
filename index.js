@@ -13,6 +13,6 @@ const posts = require('./data/posts.json');
     // Return the user's name of who posted the least
 
     // Return the user with the most number of completed todo items
-    // Return the user with the most number of completed todo items
+    // Return the user with the least number of completed todo items
 
     // Filter the users with a given email domain i.e. jasper.info
